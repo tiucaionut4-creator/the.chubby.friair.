@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>The Chubby Friar | Traditional Fish & Chips in Barking</title>
+    <meta name="description" content="Barking's favourite traditional fish & chip shop. Freshly battered, golden crisp, and served hot. Order direct for collection - 100% customer satisfaction rating." />
+    <meta name="keywords" content="fish and chips, Barking, takeaway, traditional, cod, kebab, Ripple Road" />
+    <meta name="author" content="The Chubby Friar" />
+    <meta property="og:title" content="The Chubby Friar | Traditional Fish & Chips in Barking" />
+    <meta property="og:description" content="Barking's favourite traditional fish & chip shop. Freshly battered, golden crisp, and served hot." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://thechubbyfriar.co.uk" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="theme-color" content="#0B192C" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="preconnect" href="https://images.pexels.com" />
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
